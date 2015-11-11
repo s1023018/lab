@@ -13,6 +13,6 @@ int main() {
 	printf("1023012\n");
 	printf("1023027\n");
 	printf("1023010\n");
-
+	printf("1023018\n");
 	return 0;
 }
